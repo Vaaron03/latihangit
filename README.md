@@ -1,2 +1,2 @@
 # latihangit
-ini adalah repositori\y latihan git
+ini adalah repositoriy latihan git
